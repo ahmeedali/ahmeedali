@@ -13,8 +13,8 @@
 - 🌱 I’m currently learning **QT6 / QML**
 
 - 📫 How to reach me **Ahmed.mohamed.abuelhassan@gmail.com**
-  <p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmeedali&show_icons=true&locale=en&layout=compact" alt="marina-samy" /></p>
-  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ahmeedali&show_icons=true&locale=en" alt="marina-samy" /></p>
+  <p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmeedali&show_icons=true&locale=en&layout=compact" alt="ahmedali" /></p>
+  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ahmeedali&show_icons=true&locale=en" alt="ahmedali" /></p>
 
 <!--
 **ahmeedali/ahmeedali** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
