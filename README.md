@@ -8,7 +8,7 @@
 
 
 
-- 🔭 I’m currently working as  **R&D Engineer**
+- 🔭 I’m currently looking for a job as an  **R&D Engineer**
 
 - 🌱 I’m currently learning **QT6 / QML**
 
